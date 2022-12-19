@@ -1,0 +1,15 @@
+﻿@model Product
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<form method="post">
+    <input asp-for="Name" placeholder="Product Name"  />
+    <span asp-validation-for="Name"></span>
+    <br />
+    <input asp-for="Price" placeholder="Price" /> <br />
+    <span asp-validation-for="Price"></span>
+    <button type="submit">Ekle</button>
+</form>
