@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Middlewares", "Middlewares\Middlewares.csproj", "{11648065-811B-42D8-89F5-8F6C1B669843}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11648065-811B-42D8-89F5-8F6C1B669843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11648065-811B-42D8-89F5-8F6C1B669843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11648065-811B-42D8-89F5-8F6C1B669843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11648065-811B-42D8-89F5-8F6C1B669843}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42C3E2A2-7F6B-4F8C-868F-F3E1BEB3A146}
+	EndGlobalSection
+EndGlobal
